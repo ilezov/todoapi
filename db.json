@@ -1,0 +1,17 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Try Redux Toolkit",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Research Flexbox CSS",
+      "completed": false
+    }
+  ],
+  "profile": {
+    "name": "ilezov"
+  }
+}
